@@ -7,4 +7,5 @@
 
 
 ### Scatter plot Total Coins Mined, Total Coin Supply 
-![Screenshot 2023-04-04 115742](https://user-images.githubusercontent.com/45715246/229849632-b6a8dc24-158d-4b1c-a046-f80f913e49f0.png)
+![Screenshot 2023-04-04 115925](https://user-images.githubusercontent.com/45715246/229850148-a14f37a0-3da2-4e64-9c5c-52489a593db5.png)
+
